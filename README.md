@@ -494,15 +494,6 @@ If you use BioGraphRAG in your research, please cite:
 
 ---
 
-## Contact
-
-For questions, issues, or collaboration opportunities:
-
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/biographrag/issues)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-
----
 
 <div align="center">
 
