@@ -476,9 +476,8 @@ If you use BioGraphRAG in your research, please cite:
 ```bibtex
 @software{biographrag2024,
   title={BioGraphRAG: Biomedical Knowledge Graph System},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/biographrag}
+  author={saikrishna},
+  year={2025}
 }
 ```
 
